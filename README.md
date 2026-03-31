@@ -57,10 +57,10 @@ Right now, I’m focused on:
 
 ---
 
-## ⚡ Fun Fact  
+##  Fun Fact  
 
 Still learning, still building, and trying to turn ideas into something real.  
 
 ---
 
-💡 *Just getting started — a lot more to come.*  
+ *Just getting started — a lot more to come.*  
