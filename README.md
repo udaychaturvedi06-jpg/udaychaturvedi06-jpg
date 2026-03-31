@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Uday Deval Chaturvedi  
+#  Hi, I'm Uday Deval Chaturvedi  
 
-🎓 First-year student | 💻 Tech Enthusiast | 🚀 Trying to build something meaningful  
+ First-year student |  Tech Enthusiast |  Trying to build something meaningful  
 
 ---
 
-## 🧠 About Me  
+##  About Me  
 
 I’m Uday Deval Chaturvedi, currently in my first year and exploring the world of tech step by step.  
 
@@ -14,16 +14,16 @@ I don’t know everything yet — but I’m consistent, curious, and always will
 
 ---
 
-## ⚙️ Tech Stack  
+##  Tech Stack  
 
-- 💻 Python, C, Java (learning and improving)  
-- 🌐 HTML, CSS, basic JavaScript  
-- 🛠 Git, GitHub, VS Code  
-- 📊 Interested in AI, automation, and problem solving  
+-  Python, C, Java (learning and improving)  
+-  HTML, CSS, basic JavaScript  
+-  Git, GitHub, VS Code  
+-  Interested in AI, automation, and problem solving  
 
 ---
 
-## 🚀 Projects  
+##  Projects  
 
 Right now, I’m focused on:  
 
@@ -33,7 +33,7 @@ Right now, I’m focused on:
 
 ---
 
-## 🎯 Goals  
+##  Goals  
 
 - Become confident in problem solving  
 - Build projects that actually make an impact  
@@ -42,7 +42,7 @@ Right now, I’m focused on:
 
 ---
 
-## 🌱 Currently Learning  
+##  Currently Learning  
 
 - Data Structures & Algorithms  
 - Python development  
@@ -50,10 +50,10 @@ Right now, I’m focused on:
 
 ---
 
-## 📫 Connect With Me  
+##  Connect With Me  
 
-- 📧 Email: (you can add this later)  
-- 💼 LinkedIn: (optional for now)  
+-  Email: (you can add this later)  
+-  LinkedIn: (optional for now)  
 
 ---
 
